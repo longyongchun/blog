@@ -1,0 +1,10 @@
+{
+	"WorkingDir": "/home/blank/test/src/blog",
+	"SourceDir": [
+	    "/home/blank/test/src/blog"
+	],
+	"SourceExt": [".go"],
+	"BuildCmd": "go build",
+	"RunCmd": "./blog",
+	"Decreasing": 1
+}
